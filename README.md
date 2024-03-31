@@ -14,3 +14,6 @@ https://learn.microsoft.com/en-us/dotnet/orleans/tutorials-and-samples/tutorial-
 
 **UrlShortener**  
 https://learn.microsoft.com/ko-kr/training/modules/orleans-build-your-first-app/?source=recommendations
+
+**Hello_Blazor**  
+https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
