@@ -17,3 +17,9 @@ https://learn.microsoft.com/ko-kr/training/modules/orleans-build-your-first-app/
 
 **Hello_Blazor**  
 https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
+
+**TodoList**  
+https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-8.0
+
+**FirstGame**  
+Not yet
